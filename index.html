@@ -1,347 +1,342 @@
 <!DOCTYPE html>
 <!-- saved from url=(0093)https://framework7.io/kitchen-sink/core/?theme=md&mode=dark&example-preview=true#!/searchbar/ -->
 <html lang="en" class="example-preview dark md device-pixel-ratio-1 device-desktop device-windows">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="theme-color" content="#fff">
-<meta http-equiv="Content-Security-Policy" content="default-src * &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; data:">
-<title>Framework7</title>
-<link rel="stylesheet" href="./app/framework7-bundle.min.css">
-<link rel="stylesheet" href="./app/app.css">
-<link rel="apple-touch-icon" href="https://framework7.io/kitchen-sink/core/img/f7-icon-square.png">
-<link rel="icon" href="https://framework7.io/kitchen-sink/core/img/f7-icon.png">
-</head>
-<body>
-<div id="app" class="framework7-root"><div class="panel-backdrop"></div>
-<div class="panel panel-left panel-floating panel-resizable panel-init">
-<div class="page">
-<div class="page-content">
-<div class="block-title">Left Panel</div>
-<div class="block">
-<p>This is a left side panel. You can close it by clicking outsite or on this link: <a class="panel-close">close me</a>. You can put here anything, even another isolated view like in <a data-panel="right" class="panel-open">Right Panel</a></p>
-</div>
-<div class="block-title">Main View Navigation</div>
-<div class="list links-list">
-<ul>
-<li>
-<a href="https://framework7.io/accordion/" class="panel-close">Accordion</a>
-</li>
-<li>
-<a href="https://framework7.io/action-sheet/" class="panel-close">Action Sheet</a>
-</li>
-<li>
-<a href="https://framework7.io/badge/" class="panel-close">Badge</a>
-</li>
-<li>
-<a href="https://framework7.io/buttons/" class="panel-close">Buttons</a>
-</li>
-<li>
-<a href="https://framework7.io/cards/" class="panel-close">Cards</a>
-</li>
-<li>
-<a href="https://framework7.io/checkbox/" class="panel-close">Checkbox</a>
-</li>
-<li>
-<a href="https://framework7.io/chips/" class="panel-close">Chips/Tags</a>
-</li>
-<li>
-<a href="https://framework7.io/contacts-list/" class="panel-close">Contacts List</a>
-</li>
-<li>
-<a href="https://framework7.io/data-table/" class="panel-close">Data Table</a>
-</li>
-</ul>
-</div>
-<div class="block">
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus mauris leo, eu bibendum
-neque congue non. Ut leo mauris, eleifend eu commodo a, egestas ac urna. Maecenas in lacus faucibus,
-viverra ipsum pulvinar, molestie arcu. Etiam lacinia venenatis dignissim. Suspendisse non nisl semper
-tellus malesuada suscipit eu et eros. Nulla eu enim quis quam elementum vulputate. Mauris ornare consequat
-nunc viverra pellentesque. Aenean semper eu massa sit amet aliquam. Integer et neque sed libero mollis
-elementum at vitae ligula. Vestibulum pharetra sed libero sed porttitor. Suspendisse a faucibus lectus.
-</p>
-<p>Duis ut mauris sollicitudin, venenatis nisi sed, luctus ligula. Phasellus blandit nisl ut lorem semper
-pharetra. Nullam tortor nibh, suscipit in consequat vel, feugiat sed quam. Nam risus libero, auctor vel
-tristique ac, malesuada ut ante. Sed molestie, est in eleifend sagittis, leo tortor ullamcorper erat, at
-vulputate eros sapien nec libero. Mauris dapibus laoreet nibh quis bibendum. Fusce dolor sem, suscipit in
-iaculis id, pharetra at urna. Pellentesque tempor congue massa quis faucibus. Vestibulum nunc eros,
-convallis blandit dui sit amet, gravida adipiscing libero.</p>
-</div>
-</div>
-</div>
-<div class="panel-resize-handler"></div></div>
-<div class="panel panel-right panel-floating panel-resizable panel-init">
-<div class=" view view-init view-right" data-name="right" data-url="/">
-<div class="page page-current">
-<div class="navbar">
-<div class="navbar-bg"></div>
-<div class="navbar-inner sliding">
-<div class="title">Right Panel</div>
-</div>
-</div>
-<div class="page-content">
-<div class="block">
-<p>This is a right side panel. You can close it by clicking outsite or on this link: <a class="panel-close">close me</a>. You can put here anything, even another isolated view.</p>
-</div>
-<div class="block-title">Panel Navigation</div>
-<div class="list links-list">
-<ul>
-<li><a href="https://framework7.io/panel-right-1/">Right panel page 1</a></li>
-<li><a href="https://framework7.io/panel-right-2/">Right panel page 2</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="panel-resize-handler"></div></div>
-<div class="view view-main view-init safe-areas" data-master-detail-breakpoint="768" data-url="/" data-browser-history="true" data-browser-history-root="/kitchen-sink/core/" data-preload-previous-page="false" data-ios-swipe-back="false"><div class="page page-current page-with-subnavbar">
-  <div class="navbar">
-    <div class="navbar-bg"></div>
-    <div class="navbar-inner sliding">
-      <div class="left">
-        <a class="link back">
-          <i class="icon icon-back"></i>
-          
-        </a>
-      </div>
-      <div class="title">Searchbar</div>
-      <div class="subnavbar">
-        <form data-search-container=".search-list" data-search-in=".item-title" class="searchbar searchbar-init">
-          <div class="searchbar-inner">
-            <div class="searchbar-input-wrap">
-              <input type="search" placeholder="Search">
-              <i class="searchbar-icon"></i>
-              <span class="input-clear-button"></span>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#fff">
+    <meta http-equiv="Content-Security-Policy" content="default-src * &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; data:">
+    <title>Framework7</title>
+    <link rel="stylesheet" href="./app/framework7-bundle.min.css">
+    <link rel="stylesheet" href="./app/app.css">
+    <link rel="apple-touch-icon" href="https://framework7.io/kitchen-sink/core/img/f7-icon-square.png">
+    <link rel="icon" href="https://framework7.io/kitchen-sink/core/img/f7-icon.png">
+  </head>
+  <body>
+    <div id="app" class="framework7-root">
+      <div class="panel-backdrop"></div>
+      <div class="panel panel-left panel-floating panel-resizable panel-init">
+        <div class="page">
+          <div class="page-content">
+            <div class="block-title">Left Panel</div>
+            <div class="block">
+              <p>This is a left side panel. You can close it by clicking outsite or on this link: <a class="panel-close">close me</a>. You can put here anything, even another isolated view like in <a data-panel="right" class="panel-open">Right Panel</a>
+              </p>
             </div>
-            <span class="searchbar-disable-button">Cancel</span>
+            <div class="block-title">Main View Navigation</div>
+            <div class="list links-list">
+              <ul>
+                <li>
+                  <a href="https://framework7.io/accordion/" class="panel-close">Accordion</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/action-sheet/" class="panel-close">Action Sheet</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/badge/" class="panel-close">Badge</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/buttons/" class="panel-close">Buttons</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/cards/" class="panel-close">Cards</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/checkbox/" class="panel-close">Checkbox</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/chips/" class="panel-close">Chips/Tags</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/contacts-list/" class="panel-close">Contacts List</a>
+                </li>
+                <li>
+                  <a href="https://framework7.io/data-table/" class="panel-close">Data Table</a>
+                </li>
+              </ul>
+            </div>
+            <div class="block">
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse faucibus mauris leo, eu bibendum neque congue non. Ut leo mauris, eleifend eu commodo a, egestas ac urna. Maecenas in lacus faucibus, viverra ipsum pulvinar, molestie arcu. Etiam lacinia venenatis dignissim. Suspendisse non nisl semper tellus malesuada suscipit eu et eros. Nulla eu enim quis quam elementum vulputate. Mauris ornare consequat nunc viverra pellentesque. Aenean semper eu massa sit amet aliquam. Integer et neque sed libero mollis elementum at vitae ligula. Vestibulum pharetra sed libero sed porttitor. Suspendisse a faucibus lectus. </p>
+              <p>Duis ut mauris sollicitudin, venenatis nisi sed, luctus ligula. Phasellus blandit nisl ut lorem semper pharetra. Nullam tortor nibh, suscipit in consequat vel, feugiat sed quam. Nam risus libero, auctor vel tristique ac, malesuada ut ante. Sed molestie, est in eleifend sagittis, leo tortor ullamcorper erat, at vulputate eros sapien nec libero. Mauris dapibus laoreet nibh quis bibendum. Fusce dolor sem, suscipit in iaculis id, pharetra at urna. Pellentesque tempor congue massa quis faucibus. Vestibulum nunc eros, convallis blandit dui sit amet, gravida adipiscing libero.</p>
+            </div>
           </div>
-        </form>
+        </div>
+        <div class="panel-resize-handler"></div>
+      </div>
+      <div class="panel panel-right panel-floating panel-resizable panel-init">
+        <div class=" view view-init view-right" data-name="right" data-url="/">
+          <div class="page page-current">
+            <div class="navbar">
+              <div class="navbar-bg"></div>
+              <div class="navbar-inner sliding">
+                <div class="title">Right Panel</div>
+              </div>
+            </div>
+            <div class="page-content">
+              <div class="block">
+                <p>This is a right side panel. You can close it by clicking outsite or on this link: <a class="panel-close">close me</a>. You can put here anything, even another isolated view. </p>
+              </div>
+              <div class="block-title">Panel Navigation</div>
+              <div class="list links-list">
+                <ul>
+                  <li>
+                    <a href="https://framework7.io/panel-right-1/">Right panel page 1</a>
+                  </li>
+                  <li>
+                    <a href="https://framework7.io/panel-right-2/">Right panel page 2</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel-resize-handler"></div>
+      </div>
+      <div class="view view-main view-init safe-areas" data-master-detail-breakpoint="768" data-url="/" data-browser-history="true" data-browser-history-root="/kitchen-sink/core/" data-preload-previous-page="false" data-ios-swipe-back="false">
+        <div class="page page-current page-with-subnavbar">
+          <div class="navbar">
+            <div class="navbar-bg"></div>
+            <div class="navbar-inner sliding">
+              <div class="left">
+                <a class="link back">
+                  <i class="icon icon-back"></i>
+                </a>
+              </div>
+              <div class="title">Searchbar</div>
+              <div class="subnavbar">
+                <form data-search-container=".search-list" data-search-in=".item-title" class="searchbar searchbar-init">
+                  <div class="searchbar-inner">
+                    <div class="searchbar-input-wrap">
+                      <input type="search" placeholder="Search">
+                      <i class="searchbar-icon"></i>
+                      <span class="input-clear-button"></span>
+                    </div>
+                    <span class="searchbar-disable-button">Cancel</span>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="page-content">
+            <div class="searchbar-backdrop"></div>
+            <div class="list list-strong-ios list-outline-ios list-dividers-ios simple-list searchbar-not-found">
+              <ul>
+                <li>Nothing found</li>
+              </ul>
+            </div>
+            <div class="list list-strong-ios list-outline-ios list-dividers-ios search-list searchbar-found">
+              <ul>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Acura</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Audi</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">BMW</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Cadillac </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Chevrolet </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Chrysler </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Dodge </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Ferrari </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Ford </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">GMC </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Honda</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Hummer</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Hyundai</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Infiniti </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Isuzu </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Jaguar </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Jeep </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Kia</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Lamborghini </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Land Rover</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Lexus </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Lincoln </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Lotus </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Mazda</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Mercedes-Benz</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Mercury </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Mitsubishi</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Nissan </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Oldsmobile </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Peugeot </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Pontiac </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Porsche</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Regal</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Saab </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Saturn </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Subaru </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Suzuki </div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Toyota</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Volkswagen</div>
+                  </div>
+                </li>
+                <li class="item-content">
+                  <div class="item-inner">
+                    <div class="item-title">Volvo</div>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-  <div class="page-content">
-    <div class="searchbar-backdrop"></div>
-
-    <div class="list list-strong-ios list-outline-ios list-dividers-ios simple-list searchbar-not-found">
-      <ul>
-        <li>Nothing found</li>
-      </ul>
-    </div>
-    <div class="list list-strong-ios list-outline-ios list-dividers-ios search-list searchbar-found">
-      <ul>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Acura</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Audi</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">BMW</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Cadillac </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Chevrolet </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Chrysler </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Dodge </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Ferrari </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Ford </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">GMC </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Honda</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Hummer</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Hyundai</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Infiniti </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Isuzu </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Jaguar </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Jeep </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Kia</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Lamborghini </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Land Rover</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Lexus </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Lincoln </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Lotus </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Mazda</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Mercedes-Benz</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Mercury </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Mitsubishi</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Nissan </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Oldsmobile </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Peugeot </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Pontiac </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Porsche</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Regal</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Saab </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Saturn </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Subaru </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Suzuki </div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Toyota</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Volkswagen</div>
-          </div>
-        </li>
-        <li class="item-content">
-          <div class="item-inner">
-            <div class="item-title">Volvo</div>
-          </div>
-        </li>
-      </ul>
-    </div>
-  </div>
-</div></div>
-</div>
-<script src="./app/framework7-bundle.min.js"></script>
-<script src="./app/routes.js"></script>
-<script src="./app/store.js"></script>
-<script src="./app/app.js"></script>
-
-</body></html>
+    <script src="./app/framework7-bundle.min.js"></script>
+    <script src="./app/routes.js"></script>
+    <script src="./app/store.js"></script>
+    <script src="./app/app.js"></script>
+  </body>
+</html>
