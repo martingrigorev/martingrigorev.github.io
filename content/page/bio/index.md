@@ -1,5 +1,5 @@
 ---
-title: Галерея
+title: Биография
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
