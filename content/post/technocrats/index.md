@@ -3,7 +3,7 @@ title: Технократы удачи: Чем могут навредить р�
 description: Статья про суровые условия тайги
 slug: technocrats
 date: 2022-07-09 00:00:00+0000
-image: taiga-01.jpg
+image: buisness-cover-01.jpg
 categories:
     - Example Category
 tags:
