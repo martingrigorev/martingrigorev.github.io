@@ -10,7 +10,7 @@ menu:
     main: 
         weight: 4
         params:
-            icon: link
+            icon: bio
 
 comments: false
 ---
