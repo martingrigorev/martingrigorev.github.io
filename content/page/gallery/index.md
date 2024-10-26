@@ -35,4 +35,4 @@ links:
 `image` field accepts both local and external images.
 
 
-![Image 1](image1.jpg) ![Image 2](image2.jpg)
+![Э. Тельман](image1.jpg) ![Паганини](image2.jpg)
