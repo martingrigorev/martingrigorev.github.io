@@ -34,5 +34,5 @@ links:
 
 `image` field accepts both local and external images.
 
---- content/gallery/my-first-gallery/index.md ---
-![Image 1](image1.jpg) ![Image 2](image2.jpg)
+
+![Image 1](image1.jpg) ![Image 2](image.jpg)
