@@ -1,13 +1,14 @@
 ---
 title: Технократы удачи - Чем могут навредить региональному бизнесу модные топы из Москвы
-description: Статья про суровые условия тайги
+description: Статья про заезжих менеджеров-технократов
 slug: technocrats
 date: 2022-07-09 00:00:00+0000
 image: buisness-cover-01.jpg
 categories:
-    - Example Category
+    - Бизнес
 tags:
-    - Example Tag
+    - Бизнес
+    - Статья
 weight: 1       
 ---
 [Статья опубликована в журнале Forbes 17 января 2021 г.](https://www.forbes.ru/biznes/418463-tehnokraty-udachi-chem-mogut-navredit-regionalnomu-biznesu-modnye-topy-iz-moskvy)
