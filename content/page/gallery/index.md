@@ -1,5 +1,6 @@
 ---
-title: Ссылки
+title: Галерея
+slug: "gallery"
 links:
   - title: GitHub
     description: GitHub is the world's largest software development platform.
