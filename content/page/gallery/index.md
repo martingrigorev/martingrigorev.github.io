@@ -15,4 +15,7 @@ menu:
 comments: false
 ---
 
-![Э. Тельман](image1.jpg) ![Паганини](image2.jpg) ![Паганини](image2.jpg) ![Э. Тельман](image1.jpg) 
+![](gallery-1-min.jpg) ![](gallery-2-min.jpg) ![](gallery-3-min.jpg) 
+![](gallery-4-min.jpg) ![](gallery-5-min.jpg) ![](gallery-6-min.jpg) 
+![](gallery-7-min.jpg) ![](gallery-8-min.jpg) ![](gallery-9-min.jpg) 
+![](gallery-10-min.jpg) ![](gallery-11-min.jpg) ![](gallery-12-min.jpg) 
