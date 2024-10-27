@@ -152,9 +152,3 @@ clientSecret = ""
 host = ""
 id = ""
 
-[Params.Footer]
-customText = "123"
-
-[Params]
-customCSS = 'css/custom.css'
-

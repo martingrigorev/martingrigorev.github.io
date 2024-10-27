@@ -5,6 +5,4 @@ menu:
         weight: 1
         params:
             icon: home
-css:
-  - css/custom.css
 ---
