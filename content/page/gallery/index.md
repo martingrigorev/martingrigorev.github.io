@@ -10,7 +10,7 @@ menu:
     main: 
         weight: 3
         params:
-            icon: gallery
+            icon: photo
 
 comments: false
 ---
