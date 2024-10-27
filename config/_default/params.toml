@@ -153,6 +153,7 @@ host = ""
 id = ""
 
 [params.social]
-GitHub = "yourGitHubUsername"
-Twitter = "yourTwitterUsername"
-LinkedIn = "yourLinkedInUsername"
+  name = "stackoverflow"
+  icon = "vk-icon"
+  url = "https://stackoverflow.com/story/example"
+  weight = 40
