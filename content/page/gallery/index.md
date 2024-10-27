@@ -5,7 +5,7 @@ links:
   - title: Пономарёв Олег Борисович VK 
     description: Страница в социальной сети Вконтакте
     website: https://vk.com/olegponomarev39
-    image: "brand-vk.svg"
+    image: "vk-logo-color.svg"
 menu:
     main: 
         weight: 3
