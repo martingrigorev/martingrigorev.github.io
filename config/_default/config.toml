@@ -17,3 +17,6 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[Params]
+customCSS = 'css/custom.css'
