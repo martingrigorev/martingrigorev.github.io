@@ -8,15 +8,18 @@
 #newtab = true
 
 [[social]]
+identifier = "Spar-Kaliningrad"
+name = "Спар Калининград"
+url = "https://spar-kaliningrad.ru/"
+[social.params]
+icon = "brand-safari"
+
+
+[[social]]
 identifier = "VK"
-name = "VK"
+name = "Пономарёв Олег Борисович vk.com/olegponomarev39"
 url = "https://vk.com/olegponomarev39"
 [social.params]
 icon = "brand-vk"
 
-[[social]]
-identifier = "Site"
-name = "Site"
-url = "https://spar-kaliningrad.ru/"
-[social.params]
-icon = "brand-safari"
+
