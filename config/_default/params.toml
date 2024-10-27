@@ -151,9 +151,3 @@ clientSecret = ""
 [comments.cusdis]
 host = ""
 id = ""
-
-[params.social]
-  name = "stackoverflow"
-  icon = "vk-icon"
-  url = "https://stackoverflow.com/story/example"
-  weight = 40
