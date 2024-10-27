@@ -1,11 +1,11 @@
 ---
 title: Биография
 slug: "bio"
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+#links:
+#  - title: GitHub
+#    description: GitHub is the world's largest software development platform.
+#    website: https://github.com
+#    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
@@ -15,20 +15,9 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Родился 1 августа 1969 года в городе Вологде. Окончил Калининградский государственный университет (1993), Всероссийскую академию внешней торговли (1994). 
+Кандидат экономических наук (КГУ, 2001), доктор экономических наук (РАНХиГС при Президенте РФ, 2020). 
+Автор нескольких монографий и большого количества научных работ по вопросам экономики и предпринимательства. 
+Олег Борисович Пономарев работает в торговле с 1992 года, с 1998 года — учредитель и генеральный директор торговой сети «Семья», с 2014 года руководит одной из крупнейших торговых сетей Калининградской области — «Спар-Калининград». 
+Сооснователь, в 2006—2018 гг. председатель, а с 2018 года — член Координационного Совета Союза независимых сетей России. Президент Федерации настольного тенниса Калининградской области. Член Совета Калининградской торгово-промышленной палаты. 
+Присвоено почетное звание «Почетный работник торговли России» (2018), награжден орденом «За заслуги перед Калининградской областью» и рядом ведомственных наград.
