@@ -8,12 +8,11 @@
 #newtab = true
 
 [[social]]
-identifier = "github"
-name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
-
+identifier = "VK"
+name = "VK"
+url = "https://vk.com/olegponomarev39"
 [social.params]
-icon = "brand-github"
+icon = "vk-icon.svg"
 
 [[social]]
 identifier = "twitter"
