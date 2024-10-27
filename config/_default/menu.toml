@@ -15,9 +15,8 @@ url = "https://vk.com/olegponomarev39"
 icon = "brand-vk"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
-
+identifier = "Site"
+name = "Site"
+url = "https://spar-kaliningrad.ru/"
 [social.params]
-icon = "brand-twitter"
+icon = "brand-safari"
