@@ -12,7 +12,7 @@ identifier = "VK"
 name = "VK"
 url = "https://vk.com/olegponomarev39"
 [social.params]
-icon = "vk-icon.svg"
+icon = "vk-icon"
 
 [[social]]
 identifier = "twitter"
