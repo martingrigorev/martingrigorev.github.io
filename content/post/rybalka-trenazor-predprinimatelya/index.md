@@ -2,7 +2,7 @@
 title: Рыбалка - тренажёр предпринимателя (взгляд экономиста)
 description: Статья про сравнение рыбалки и бизнеса
 slug: rybalka-trenazor-predprinimatelya
-date: 2022-07-9 00:00:00+0000
+date: 2022-07-09 00:00:00+0000
 image: image-1.jpg
 categories:
     - Бизнес
