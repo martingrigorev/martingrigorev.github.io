@@ -152,3 +152,7 @@ clientSecret = ""
 host = ""
 id = ""
 
+[params.social]
+GitHub = "yourGitHubUsername"
+Twitter = "yourTwitterUsername"
+LinkedIn = "yourLinkedInUsername"
