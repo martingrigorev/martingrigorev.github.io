@@ -7,7 +7,7 @@ links:
     description: Формула успеха 4x4
     website: https://oleg-ponomarev.ru/
     image: "doc.png"
-date: 2017-23-08 00:00:00+0000
+date: 2017-08-23 00:00:00+0000
 image: students-formula-4-4.jpg
 categories:
     - Студентам
