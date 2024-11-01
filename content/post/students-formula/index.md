@@ -12,7 +12,7 @@ image: students-formula-4-4.jpg
 categories:
     - Студентам
 tags:
-    - Бизнес
+    - Экономика
     - Студентам
 weight: 1       
 ---
