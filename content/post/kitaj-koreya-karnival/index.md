@@ -5,8 +5,8 @@ slug: kitaj-koreya-karnival
 date: 2022-05-20 00:00:00+0000
 image: image-1.jpg
 categories:
-    -Бизнес
-    -Авто
+    - Бизнес
+    - Авто
 tags:
     - Бизнес
     - Статья
