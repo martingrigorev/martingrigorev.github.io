@@ -3,7 +3,7 @@ title: Код предпринимателя vs код менеджера
 description: Статья про различие между предпринимателем и менеджером
 slug: Kod-predprinimatelya-vs-Kod-menedzhera
 date: 2022-07-06 00:00:00+0000
-image:image-8.jpg
+image: image-8.jpg
 categories:
     - Бизнес
 tags:
