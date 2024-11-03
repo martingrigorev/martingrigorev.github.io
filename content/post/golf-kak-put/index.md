@@ -2,7 +2,7 @@
 title: Гольф как путь саморазвития
 description: Статья про саморазвитие через гольф
 slug: golf-kak-put
-date: 2022-05-01 00:00:00+0000
+date: 2023-08-29 00:00:00+0000
 image: image-1.jpg
 categories:
     - Бизнес
