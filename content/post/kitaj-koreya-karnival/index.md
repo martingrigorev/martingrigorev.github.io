@@ -1,7 +1,7 @@
 ---
 title: Китай, Корея, Карнивал.
 description: Бойкот, исход и китайский карнавал.
-slug: test-na-antihrupkost-2022
+slug: kitaj-koreya-karnival
 date: 2022-05-20 00:00:00+0000
 image: image-1.jpg
 categories:
