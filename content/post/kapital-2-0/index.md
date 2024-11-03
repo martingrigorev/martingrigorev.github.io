@@ -3,7 +3,7 @@ title: Капитал 2.0
 description: 
 slug: kapital-2-0
 date: 2023-02-05 00:00:00+0000
-image: image-1.png
+image: image-2.png
 categories:
     - Бизнес
 tags:
