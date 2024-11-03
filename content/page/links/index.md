@@ -28,5 +28,15 @@ comments: false
 * [Страница на tadviser.ru](https://www.tadviser.ru/index.php/%D0%9F%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0:%D0%9F%D0%BE%D0%BD%D0%BE%D0%BC%D0%B0%D1%80%D0%B5%D0%B2_%D0%9E%D0%BB%D0%B5%D0%B3_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%87)
 * [Страница на retail.ru](https://www.retail.ru/persons/ponomarevoleg/)
 
+## Сайты
+
+* [Клуб друзей](https://friendsclub.ru/)
+* [SPAR-Калининград](https://spar-kaliningrad.ru/)
+* [SPAR-Online](https://spar-online.ru/)
+* [Торговый дом "СЕМЬЯ"](http://tds-group.ru/)
+* [КРУАССАН family](https://kruassanfamily.ru/)
+* [АО "Русский хлеб"](https://rusbread.ru/)
+
+
 
 
