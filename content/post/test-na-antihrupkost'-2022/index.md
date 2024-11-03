@@ -5,7 +5,8 @@ slug: test-na-antihrupkost'-2022
 date: 2022-11-24 00:00:00+0000
 image: image-1.jpg
 categories:
-    - Сравнение
+    - Бизнес
+    - Статья
 tags:
     - Сранение
     - Статья
