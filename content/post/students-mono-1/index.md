@@ -1,7 +1,7 @@
 ---
 title: 1-ая монография Пономарева О. Б.
 description: 
-slug: students-master-klass
+slug: students-mono-1
 links:
   - title: Скачать документ 
     description: 1-ая монография Пономарева О. Б.
