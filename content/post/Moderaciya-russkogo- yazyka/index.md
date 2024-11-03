@@ -2,7 +2,7 @@
 title: Модерация Русского языка
 description: Статья о модерации языка
 slug: Moderaciya-russkogo- yazyka
-date: 2022-11-9 00:00:00+0000
+date: 2022-11-09 00:00:00+0000
 image: image-1.jpg
 categories:
     - Бизнес
