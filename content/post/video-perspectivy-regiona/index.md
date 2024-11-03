@@ -18,6 +18,11 @@ weight: 1
     <source src="/videos/perspektivy-regiona.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
+<style>
+    .article-image img {
+            height: 0px !important;
+    }
+</style>
 
 {{< /rawhtml >}}
 

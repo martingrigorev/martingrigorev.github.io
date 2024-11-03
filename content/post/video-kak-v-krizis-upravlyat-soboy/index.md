@@ -23,7 +23,7 @@ weight: 1
 </video>
 <style>
     .article-image img {
-        display:none !important;
+            height: 0px !important;
     }
 </style>
 
