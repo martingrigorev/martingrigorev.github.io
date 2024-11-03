@@ -1,7 +1,7 @@
 ---
 title: Тест на антихрупкость 2022
 description: Тест на антихрупкость
-slug: test-na-antihrupkost'-2022
+slug: test-na-antihrupkost-2022
 date: 2022-11-24 00:00:00+0000
 image: image-1.jpg
 categories:
