@@ -2,7 +2,7 @@
 title: Размышления о предпринимательстве и Православной Вере. Соловки 2023
 description: Статья о вере и предпринимательстве
 slug: razmyshleniya-o-predprinimatel'stve-i-pravoslavnoj-vere
-date: 2023-09-27 00:00:00+0000
+date: 2024-09-27 00:00:00+0000
 image: image-1.jpg
 categories:
     - Бизнес
