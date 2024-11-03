@@ -12,12 +12,21 @@ tags:
 weight: 1       
 ---
 
+
+
+
 {{< rawhtml >}} 
 
 <video width=100% controls>
     <source src="/videos/kak-v-krizis-upravlyat-soboy.mp4" type="video/mp4">
     Your browser does not support the video tag.  
 </video>
+<style>
+    .article-image img {
+        display:none !important;
+    }
+</style>
+
 
 {{< /rawhtml >}}
 
