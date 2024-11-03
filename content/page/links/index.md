@@ -31,6 +31,7 @@ comments: false
 ## Сайты
 
 * [Клуб друзей](https://friendsclub.ru/)
+* [KDpay](https://kdpay.ru/)
 * [SPAR-Калининград](https://spar-kaliningrad.ru/)
 * [SPAR-Online](https://spar-online.ru/)
 * [Торговый дом "СЕМЬЯ"](http://tds-group.ru/)
