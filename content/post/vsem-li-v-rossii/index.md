@@ -3,7 +3,7 @@ title: Всем ли в россии нужны гибкие навыки?
 description: Статья про необходимость гибких навыков в работе
 slug: vsem-li
 date: 2022-07-09 00:00:00+0000
-image: image-1.jpg
+image: vsem-li-01.jpg
 categories:
     - Бизнес
 tags:
