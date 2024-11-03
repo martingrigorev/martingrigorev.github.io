@@ -15,6 +15,14 @@ url = "/categories/студентам/"
 icon = "school"
 newtab = false
 
+[[main]]
+identifier = "video"
+name = "Видео"
+url = "/categories/видео/"
+[main.params]
+icon = "brand-youtube"
+newtab = false
+
 [[social]]
 identifier = "Spar-Kaliningrad"
 name = "Спар Калининград"
