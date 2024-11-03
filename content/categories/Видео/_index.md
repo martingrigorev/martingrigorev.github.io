@@ -1,5 +1,5 @@
 ---
-title: Видее
+title: Видео
 description: Видеоролики
 image: "video.jpg"
 style:
