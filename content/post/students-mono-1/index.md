@@ -5,7 +5,7 @@ slug: students-mono-1
 links:
   - title: Скачать документ 
     description: 1-ая монография Пономарева О. Б.
-    website: /docs//docs/Монография-1-0.pdf
+    website: /docs/Монография-1-0.pdf
     image: "pdf.png"
 date: 2017-08-23 00:00:00+0000
 image: students-book-1.jpg
